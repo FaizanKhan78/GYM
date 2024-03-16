@@ -1,0 +1,10 @@
+.notfound__container {
+    padding-top: 8rem;
+    text-align: center;
+}
+
+
+.notfound__container .btn {
+    margin-top: 2rem;
+    display: inline-block;
+}
